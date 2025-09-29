@@ -1,7 +1,7 @@
 
-     Nombre: [tu-nombre]  
-     Carnet: [tu-carnet]  
-     Sección: [tu-sección]  
+     Nombre: Adriana Hernandez 
+     Carnet: 20255068
+     Sección: Seccion 1
 
 ## 📌 Indicaciones para la entrega: 
 - Establecer la visibilidad del repositorio de la guia y el repositorio semanal como **Pública**
