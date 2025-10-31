@@ -1,0 +1,7 @@
+ene = int(input("cuanto vendiste en enero"))
+feb = int(input("cuanto vendiste en febrero"))
+mar = int(input("cuanto vendiste en marzo"))
+
+costo_total = ene*1.25 + feb*1.38 + mar*1.14
+
+print(f"el costo total es de {costo_total}")

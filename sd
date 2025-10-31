@@ -1,0 +1,21 @@
+'''dias = (["lunes","martes","miercoles","jueves","viernes"])
+lu= int(input("lunes"))
+dias[0]=lu
+
+ma= int(input("martes"))
+dias[1]=ma
+
+mie= int(input("miercoles"))
+dias[2]=mie
+
+jue= int(input("jueves"))
+dias[3]=jue
+
+vie= int (input("viernes"))
+dias[4]=vie
+
+print(dias)
+'''
+pupu = 12 
+
+print(pupu)

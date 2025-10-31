@@ -1,0 +1,14 @@
+# Captura la cantidad de artículos producidos por mes
+enero = int(input("Ingrese la cantidad de artículos producidos en enero: "))
+febrero = int(input("Ingrese la cantidad de artículos producidos en febrero: "))
+marzo = int(input("Ingrese la cantidad de artículos producidos en marzo: "))
+
+# Precios por mes
+precio_enero = 1.25
+precio_febrero = 1.38
+precio_marzo = 1.14
+
+# Calcula el costo total
+costo_total = (enero * precio_enero) + (febrero * precio_febrero) + (marzo * precio_marzo)
+
+print(f"El costo total es: ${costo_total:.2f}")
